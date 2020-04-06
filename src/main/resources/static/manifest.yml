@@ -1,0 +1,6 @@
+appications:
+  name: flipkart
+  memory: 512M
+  buildpack: staticfile_buildpack
+  disk_quota: 1024M
+  instances: 1
